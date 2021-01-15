@@ -1,6 +1,7 @@
-# GPS-Distance-Calculator
+# GPS-Distance-Calculator for linux
 Calculates distances between points with GPS coordinates
 
+works on linux.
 launch PATH./distance_calculator 3(optional)
 
 Imports GPS coordinates from places.csv if no optional integer argument is given and calculates distances between all pairs of points with those coordinates.
