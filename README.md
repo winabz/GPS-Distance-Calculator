@@ -1,12 +1,12 @@
 # GPS-Distance-Calculator
 Calculates distances between points with GPS coordinates
 
-##Instalation
+## Instalation
 Requires Python > 3
 '''
 pip install -r requirements.txt
 '''
-##Running
+## Running
 Run it in terminal:
 
 '''
