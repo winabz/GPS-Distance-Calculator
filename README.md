@@ -4,11 +4,11 @@ Calculates distances between points with GPS coordinates
 ## Instalation
 Requires Python > 3
 '''
+
 pip install -r requirements.txt
 '''
 ## Running
 Run it in terminal:
-
 '''
 python distance_calculator.py x(optional)
 '''
